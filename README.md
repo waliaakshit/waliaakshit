@@ -1,24 +1,8 @@
 ### Hi there 👋
+I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getting involved in Problem Solving and talking about Personal Finance and Spotify playlists🪙
 
-<!--
-**waliaakshit/waliaakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getting involved in Problem Solving and talking about Personal Finance and Spotify playlists🪙. ❤✌
-
-Talking about Personal Stuff:
-
-🔭 I’m recently graduated from Stevens Institute of Technology, Hoboken
-🌱 I’m currently preparing for AWS Cloud Solutions Architect certification.
-👯 Part of the Developer Community.
-📫 How to reach me: Drop me an email at waliaakshit1972@gmail.com
+- 🔭 I recently graduated from Stevens Institute of Technology, Hoboken.
+- 🌱 I’m currently preparing for AWS Cloud Solutions Architect certification.
+- 👯 Part of the Developer Community.
+- 📫 How to reach me: Drop me an email at waliaakshit1972@gmail.com
