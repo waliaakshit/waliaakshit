@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getting involved in Problem Solving and talking about Personal Finance and Spotify playlists🪙. ❤✌
+
+GIF
+
+Talking about Personal Stuff:
+
+🔭 I’m currently studying at Stevens Institute of Technology.
+🌱 I’m currently learning Rust.
+👯 Part of the Developer Community.
+💬 Ask me about anything; I would love to answer them. ✌
+📫 How to reach me: Drop me an email at ynagi@stevens.edu
+📝 Portfolio
+Community:
+
+Google Developer Group Hoboken NJ
+CodePath Alumni
+Languages and Tools:
+
+            
