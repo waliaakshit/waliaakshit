@@ -5,11 +5,10 @@ I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getti
 - 🔭 I recently graduated from Stevens Institute of Technology, Hoboken.
 - 🌱 I’m currently preparing for AWS Cloud Solutions Architect certification.
 - 👯 Part of the Developer Community.
-- 📫 How to reach me: Drop me an email at waliaakshit1972@gmail.com
 
-<be />
+<br />
 ## ✉️ Find me on:
-<p align="center">
+<p>
  <a href="https://github.com/waliaakshit" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="GITHUB" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="http://www.linkedin.com/in/akshit-walia-b73273162" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LINKEDIN" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:waliaakshit1972@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="E-MAIL" height="40" style="vertical-align:top; margin:4px"></a>
