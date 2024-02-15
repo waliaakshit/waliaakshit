@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getting involved in Problem Solving and talking about Personal Finance and Spotify playlists🪙
+I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getting involved in Problem Solving and talking about Personal Finance and Spotify playlists.
 
 
 - 🔭 I recently graduated from Stevens Institute of Technology, Hoboken.
