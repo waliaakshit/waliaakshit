@@ -7,7 +7,7 @@ I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getti
 - 👯 Part of the Developer Community.
 
 <br />
-## ✉️ Find me on:
+✉️ Find me on:
 <p>
  <a href="https://github.com/waliaakshit" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="GITHUB" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="http://www.linkedin.com/in/akshit-walia-b73273162" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LINKEDIN" height="40" style="vertical-align:top; margin:4px"></a>
@@ -15,7 +15,7 @@ I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getti
 </p>
 
 <br />
-## 🧰 Languages and Tools:
+🧰 Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
