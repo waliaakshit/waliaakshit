@@ -41,5 +41,6 @@ I'm Akshit Walia 🙌 , an aspiring Web Developer. Apart from that, I love getti
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=waliaakshit&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waliaakshit&theme=tokyonight)
             
 
